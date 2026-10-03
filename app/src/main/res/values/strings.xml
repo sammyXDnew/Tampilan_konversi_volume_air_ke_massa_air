@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tampilan konversi volume air ke massa air</string>
+        <string name="title_converter">Konversi Volume Air ke Massa</string>
+        <string name="subtitle_density">Massa jenis air = 1 g/cm³ (1 liter ≈ 1 kg)</string>
+        <string name="hint_volume">Volume air</string>
+        <string name="label_volume_unit">Satuan volume</string>
+        <string name="unit_ml">mL</string>
+        <string name="unit_liter">Liter</string>
+        <string name="unit_m3">m³</string>
+        <string name="btn_convert">Konversi</string>
+        <string name="label_water_mass">Massa air</string>
+        <string name="result_kg_default">0 kg</string>
+        <string name="result_gram_default">0 gram</string>
+        <string name="suffix_liter">liter</string>
+</resources>
